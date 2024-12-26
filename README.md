@@ -111,9 +111,16 @@ The following extraction and preprocessing steps were performed:
 
 ![image](https://github.com/user-attachments/assets/08eee270-56c5-4bcc-80a2-2280056d03bb)
 
-![image](https://github.com/user-attachments/assets/5acb7dd4-9715-4fde-b257-6dfc68b0473c)
 
-![image](https://github.com/user-attachments/assets/67405efa-4889-430a-8659-de55a73c7003)
+![Screenshot 2024-12-26 121237](https://github.com/user-attachments/assets/84463fd5-2d48-48a2-9972-30efd8604d17)
+
+
+![Screenshot 2024-12-26 121305](https://github.com/user-attachments/assets/d327b629-7806-4964-b328-80b6d2822a06)
+
+### check the link below for project insights
+
+[View Dashboards](https://app.powerbi.com/view?r=eyJrIjoiMTQwYTFmOTktZTQwMS00ZjQxLWFmNmEtMzNhNGQ2ZDA4YTkxIiwidCI6ImMyNzg3OTIyLTExZDktNGNhOC1hYWRmLTVlZjdmZjMxYTEyNyJ9)
+
 
 1. **Geographical Distribution of Publications**:  
    - Analysis of Moroccan vs. International universities.  
