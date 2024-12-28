@@ -103,7 +103,7 @@ The following extraction and preprocessing steps were performed:
 
 
 
-![image](https://github.com/user-attachments/assets/3501458d-91bd-4da6-9945-44a78ffe6eb8)
+![image](https://github.com/user-attachments/assets/cc8944f5-765c-40d2-8c80-83e6c13b3d16)
 
 
 
