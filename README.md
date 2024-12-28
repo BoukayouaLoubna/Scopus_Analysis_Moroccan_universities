@@ -33,7 +33,7 @@ The project is centered on:
 The architecture showcases the end-to-end workflow for the "Moroccan Universities Scopus Analysis" project.  
 It includes data ingestion, transformation, storage, modeling and visualization stages
 
-![ProjectArchitecture](https://github.com/user-attachments/assets/2bfb2f25-19cb-43df-ae82-33a5a0a046a5)
+![ProjectArchitecture](https://github.com/user-attachments/assets/d28d7819-3987-4fd4-ad53-ee81467b678b)
 
 ### Architecture Overview
 Data is extracted from Scopus via an API.
@@ -109,13 +109,13 @@ The following extraction and preprocessing steps were performed:
 
 ## 📈 **Key Visualizations**
 
-![image](https://github.com/user-attachments/assets/08eee270-56c5-4bcc-80a2-2280056d03bb)
+![image](https://github.com/user-attachments/assets/307c59f7-be1c-458b-a476-f119c876a0eb)
 
 
-![Screenshot 2024-12-26 121237](https://github.com/user-attachments/assets/84463fd5-2d48-48a2-9972-30efd8604d17)
+![Screenshot 2024-12-26 121305](https://github.com/user-attachments/assets/765226f2-a5e9-4856-a83d-0759ea932025)
 
 
-![Screenshot 2024-12-26 121305](https://github.com/user-attachments/assets/d327b629-7806-4964-b328-80b6d2822a06)
+![Screenshot 2024-12-26 121237](https://github.com/user-attachments/assets/ae0b54f4-3eb5-4587-82d5-4e8e0e573762)
 
 ### check the link below for project insights
 
